@@ -1,35 +1,35 @@
-cyberpunk-2077:
+Blue_Tech_Cyberpunk:
   # global variables
-  cyan-color: "#5EF6FF"
-  dark-cyan-color: "#1D4E51"
-  dark-purple-color: "#140C15"
-  dark-red-color: "#4A1D1F"
+  cyan-color: "#00cfff"
+  dark-cyan-color: "#0076a4"
+  darker-blue-color: "#0A0A0A"
+  dark-blue-color: "#0a394f"
   orange-color: "#FFA500"
   primary-font-family: "'Rajdhani', 'Roboto'"
-  red-color: "#F44638"
+  white-color: "#FFFFFF"
   primary-background: 'url()'
-  background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/flejz/hass-cyberpunk-2077-theme/master/assets/background.jpg')"
+  background-image: "center / cover no-repeat fixed url('https://nextcloud.rgsaura.com/index.php/apps/files_sharing/publicpreview/4eKoiyoXTkK8MFt?file=/&fileId=2781250&x=3456&y=2234&a=true&etag=7dd6a339e673b8937bdf62a5a30d8a1e')"
 
   # configs 
-  accent-color: "var(--red-color)"
-  app-header-background-color: "var(--dark-purple-color)"
-  app-header-edit-background-color: "var(--dark-purple-color)"
+  accent-color: "var(--white-color)"
+  app-header-background-color: "var(--darker-blue-color)"
+  app-header-edit-background-color: "var(--darker-blue-color)"
   app-header-edit-text-color: "var(--primary-text-color)"
-  app-header-text-color: "var(--red-color)"
+  app-header-text-color: "var(--white-color)"
   app-header-selection-bar-color: "var(--cyan-color)"
   app-toolbar-font-size: ""
-  card-background-color: "var(--dark-purple-color)"
-  chip-background-color: "var(--dark-purple-color)"
+  card-background-color: "var(--darker-blue-color)"
+  chip-background-color: "var(--darker-blue-color)"
   dark-disabled-opacity: ""
   dark-divider-opacity: ""
-  dark-primary-background-color: "var(--dark-purple-color)"
+  dark-primary-background-color: "var(--darker-blue-color)"
   dark-primary-opacity: ""
   dark-secondary-opacity: ""
   dark-theme-base-color: ""
-  data-table-background-color: "var(--dark-purple-color)"
-  disabled-color: "var(--dark-purple-color)"
-  disabled-text-color: "var(--dark-purple-color)"
-  divider-color: "var(--dark-red-color)"
+  data-table-background-color: "var(--darker-blue-color)"
+  disabled-color: "var(--darker-blue-color)"
+  disabled-text-color: "var(--darker-blue-color)"
+  divider-color: "var(--dark-blue-color)"
   energy-battery-in-color: ""
   energy-battery-out-color: ""
   energy-gas-color: ""
@@ -39,22 +39,22 @@ cyberpunk-2077:
   energy-solar-color: ""
   error-color: ""
   error-state-color: ""
-  ha-card-background: "var(--dark-red-color)"
+  ha-card-background: "var(--dark-blue-color)"
   ha-card-border-color: ""
   ha-card-border-radius: ""
   ha-card-header-font-size: ""
-  hacs-error-color: "var(--red-color)"
+  hacs-error-color: "var(--white-color)"
   hacs-warning-color: "var(--orange-color_"
   hacs-update-color: "var(--cyan-color)"
   hacs-new-color: "var(--cyan-color)"
-  hacs--default-icon-color: "var(--red-color)"
+  hacs--default-icon-color: "var(--white-color)"
   header-height: ""
-  icon-color: "var(--red-color)"
+  icon-color: "var(--white-color)"
   info-color: ""
   input-disabled-fill-color: ""
   input-disabled-ink-color: ""
   input-disabled-line-color: ""
-  input-dropdown-icon-color: "var(--red-color)"
+  input-dropdown-icon-color: "var(--white-color)"
   input-fill-color: ""
   input-hover-line-color: ""
   input-idle-line-color: ""
@@ -63,12 +63,12 @@ cyberpunk-2077:
   input-outlined-disabled-border-color: ""
   input-outlined-hover-border-color: ""
   input-outlined-idle-border-color: ""
-  label-badge-background-color: "var(--dark-purple-color)"
+  label-badge-background-color: "var(--darker-blue-color)"
   label-badge-blue: ""
   label-badge-green: ""
   label-badge-grey: ""
-  label-badge-red: ""
-  label-badge-color: "var(--red-color)"
+  # label-badge-blue: ""
+  label-badge-color: "var(--white-color)"
   label-badge-yellow: ""
   layout_-_display: ""
   layout-around-aligned_-_align-content: ""
@@ -238,28 +238,28 @@ cyberpunk-2077:
   lovelace-background: "var(--background-image)"
   light-disabled-opacity: "0.3"
   light-divider-opacity: ""
-  light-primary-background-color: "var(--dark-purple-color)"
+  light-primary-background-color: "var(--darker-blue-color)"
   light-primary-opacity: ""
   light-secondary-opacity: ""
-  light-theme-background-color: "var(--dark-purple-color)"
+  light-theme-background-color: "var(--darker-blue-color)"
   light-theme-disabled-color: "var(--cyan-color)"
-  light-theme-secondary-background-color: "var(--dark-purple-color)"
+  light-theme-secondary-background-color: "var(--darker-blue-color)"
   light-theme-secondary-color: ""
-  light-theme-color: "var(--red-color)"
-  markdown-code-background-color: "var(--dark-purple-color)"
-  material-background-color: "var(--dark-purple-color)"
-  material-body-color: "var(--red-color)"
+  light-theme-color: "var(--white-color)"
+  markdown-code-background-color: "var(--darker-blue-color)"
+  material-background-color: "var(--darker-blue-color)"
+  material-body-color: "var(--white-color)"
   material-button-font-size: ""
   material-caption-font-size: ""
-  material-disabled-color: "var(--red-color)"
+  material-disabled-color: "var(--white-color)"
   material-divider-color: ""
-  material-error-color: "var(--red-color)"
+  material-error-color: "var(--white-color)"
   material-h6-font-size: ""
-  material-primary-background-color: "var(--dark-purple-color)"
+  material-primary-background-color: "var(--darker-blue-color)"
   material-primary-contrast-color: ""
-  material-primary-color: "var(--red-color)"
-  material-secondary-background-color: "var(--dark-purple-color)"
-  material-secondary-color: "var(--red-color)"
+  material-primary-color: "var(--white-color)"
+  material-secondary-background-color: "var(--darker-blue-color)"
+  material-secondary-color: "var(--white-color)"
   material-shadow-elevation-12dp: ""
   material-shadow-elevation-16dp: ""
   material-shadow-elevation-24dp: ""
@@ -271,22 +271,22 @@ cyberpunk-2077:
   material-small-font-size: ""
   mdc-button-disabled-ink-color: ""
   mdc-button-outline-color: ""
-  mdc-button-raised-box-shadow-hover: "0 0 5px 3px var(--dark-red-color)"
+  mdc-button-raised-box-shadow-hover: "0 0 5px 3px var(--dark-blue-color)"
   mdc-checkbox-disabled-color: ""
-  mdc-checkbox-unchecked-color: "var(--red-color)"
+  mdc-checkbox-unchecked-color: "var(--white-color)"
   mdc-dialog-scroll-divider-color: ""
   mdc-radio-disabled-color: ""
   mdc-radio-unchecked-color: ""
-  mdc-ripple-color: "var(--red-color)"
-  mdc-select-disabled-dropdown-icon-color: "var(--red-color)"
-  mdc-select-disabled-fill-color: "var(--dark-red-color)"
-  mdc-select-disabled-ink-color: "var(--red-color)"
-  mdc-select-dropdown-icon-color: "var(--red-color)"
-  mdc-select-fill-color: "var(--dark-purple-color)"
+  mdc-ripple-color: "var(--white-color)"
+  mdc-select-disabled-dropdown-icon-color: "var(--white-color)"
+  mdc-select-disabled-fill-color: "var(--dark-blue-color)"
+  mdc-select-disabled-ink-color: "var(--white-color)"
+  mdc-select-dropdown-icon-color: "var(--white-color)"
+  mdc-select-fill-color: "var(--darker-blue-color)"
   mdc-select-hover-line-color: ""
   mdc-select-idle-line-color: ""
-  mdc-select-ink-color: "var(--red-color)"
-  mdc-select-label-ink-color: "var(--red-color)"
+  mdc-select-ink-color: "var(--white-color)"
+  mdc-select-label-ink-color: "var(--white-color)"
   mdc-select-outlined-disabled-border-color: ""
   mdc-select-outlined-hover-border-color: ""
   mdc-select-outlined-idle-border-color: ""
@@ -294,34 +294,34 @@ cyberpunk-2077:
   mdc-text-field-disabled-fill-color: ""
   mdc-text-field-disabled-ink-color: ""
   mdc-text-field-disabled-line-color: ""
-  mdc-text-field-fill-color: "var(--dark-purple-color)"
+  mdc-text-field-fill-color: "var(--darker-blue-color)"
   mdc-text-field-hover-line-color: ""
   mdc-text-field-idle-line-color: ""
-  mdc-text-field-ink-color: "var(--red-color)"
-  mdc-text-field-label-ink-color: "var(--red-color)"
+  mdc-text-field-ink-color: "var(--white-color)"
+  mdc-text-field-label-ink-color: "var(--white-color)"
   mdc-text-field-outlined-disabled-border-color: ""
   mdc-text-field-outlined-hover-border-color: ""
   mdc-text-field-outlined-idle-border-color: ""
   mdc-theme-error: ""
-  mdc-theme-on-primary: "var(--dark-red-color)"
-  mdc-theme-on-secondary: "var(--dark-purple-color)"
+  mdc-theme-on-primary: "var(--dark-blue-color)"
+  mdc-theme-on-secondary: "var(--darker-blue-color)"
   mdc-theme-on-surface: "var(--cyan-color)"
   mdc-theme-primary: "var(--cyan-color)"
   mdc-theme-secondary: "var(--cyan-color)"
-  mdc-theme-surface: "var(--dark-red-color)"
-  mdc-theme-background: "var(--dark-purple-color)"
+  mdc-theme-surface: "var(--dark-blue-color)"
+  mdc-theme-background: "var(--darker-blue-color)"
   mdc-theme-text-disabled-on-light: ""
   mdc-theme-text-hint-on-background: ""
   mdc-theme-text-icon-on-background: ""
-  mdc-theme-text-primary-on-background: "var(--red-color)"
+  mdc-theme-text-primary-on-background: "var(--white-color)"
   mdc-theme-text-secondary-on-background: ""
   mini-media-player-overlay-color-stop: ""
-  mush-rgb-red: ""
+  mush-rgb-blue: ""
   mush-rgb-pink: ""
   mush-rgb-purple: ""
   mush-rgb-deep-purple: ""
   mush-rgb-indigo: ""
-  mush-rgb-blue: ""
+  # mush-rgb-blue: ""
   mush-rgb-light-blue: ""
   mush-rgb-cyan: ""
   mush-rgb-teal: ""
@@ -344,7 +344,7 @@ cyberpunk-2077:
   mush-rgb-state-cover: ""
   mush-rgb-state-fan: ""
   mush-rgb-state-light: ""
-  mush-rgb-state-entity: "var(--red-color)"
+  mush-rgb-state-entity: "var(--white-color)"
   paper-dropdown-menu: ""
   paper-dropdown-menu-button: ""
   paper-dropdown-menu-disabled: ""
@@ -462,60 +462,60 @@ cyberpunk-2077:
   paper-font-title_-_text-overflow: ""
   paper-font-title_-_-webkit-font-smoothing: ""
   paper-font-title_-_white-space: ""
-  paper-input-container-color: "var(--red-color)"
+  paper-input-container-color: "var(--white-color)"
   paper-input-container-background-color: ""
   paper-input-container-input: ""
   paper-input-container-input_-_font-size: ""
   paper-input-container-input-align: ""
-  paper-input-container-input-color: "var(--red-color)"
+  paper-input-container-input-color: "var(--white-color)"
   paper-input-container-focus-color: "var(--cyan-color)"
-  paper-input-container-shared-input-style_-_background: ""
-  paper-input-container-shared-input-style_-_border: ""
-  paper-input-container-shared-input-style_-_box-shadow: ""
-  paper-input-container-shared-input-style_-_color: "var(--red-color)"
-  paper-input-container-shared-input-style_-_font-family: "var(--primary-font-family)"
-  paper-input-container-shared-input-style_-_font-size: ""
-  paper-input-container-shared-input-style_-_font-weight: ""
-  paper-input-container-shared-input-style_-_line-height: ""
-  paper-input-container-shared-input-style_-_margin: ""
-  paper-input-container-shared-input-style_-_max-width: ""
-  paper-input-container-shared-input-style_-_outline: ""
-  paper-input-container-shared-input-style_-_padding: ""
-  paper-input-container-shared-input-style_-_position: ""
-  paper-input-container-shared-input-style_-_text-align: ""
-  paper-input-container-shared-input-style_-_vertical-align: ""
-  paper-input-container-shared-input-style_-_-webkit-appearance: ""
-  paper-input-container-shared-input-style_-_-webkit-font-smoothing: ""
-  paper-input-container-shared-input-style_-_width: ""
+  paper-input-container-shablue-input-style_-_background: ""
+  paper-input-container-shablue-input-style_-_border: ""
+  paper-input-container-shablue-input-style_-_box-shadow: ""
+  paper-input-container-shablue-input-style_-_color: "var(--white-color)"
+  paper-input-container-shablue-input-style_-_font-family: "var(--primary-font-family)"
+  paper-input-container-shablue-input-style_-_font-size: ""
+  paper-input-container-shablue-input-style_-_font-weight: ""
+  paper-input-container-shablue-input-style_-_line-height: ""
+  paper-input-container-shablue-input-style_-_margin: ""
+  paper-input-container-shablue-input-style_-_max-width: ""
+  paper-input-container-shablue-input-style_-_outline: ""
+  paper-input-container-shablue-input-style_-_padding: ""
+  paper-input-container-shablue-input-style_-_position: ""
+  paper-input-container-shablue-input-style_-_text-align: ""
+  paper-input-container-shablue-input-style_-_vertical-align: ""
+  paper-input-container-shablue-input-style_-_-webkit-appearance: ""
+  paper-input-container-shablue-input-style_-_-webkit-font-smoothing: ""
+  paper-input-container-shablue-input-style_-_width: ""
   paper-item-disabled: ""
   paper-item-disabled-color: ""
   paper-item-focused: ""
   paper-item-focused-before: ""
   paper-item-icon-active-color: "var(--cyan-color)"
-  paper-item-icon-color: "var(--red-color)"
+  paper-item-icon-color: "var(--white-color)"
   paper-item-min-height: ""
   paper-item-selected: "var(--cyan-color)"
   paper-item-selected-weight: ""
-  paper-listbox-background-color: "var(--dark-red-color)"
+  paper-listbox-background-color: "var(--dark-blue-color)"
   paper-slider-active-color: "var(--cyan-color)"
-  paper-slider-container-color: "var(--dark-purple-color)"
+  paper-slider-container-color: "var(--darker-blue-color)"
   paper-slider-knob-color: "var(--cyan-color)"
   paper-slider-knob-start-color: "var(--cyan-color)"
-  paper-slider-pin-color: "var(--red-color)"
+  paper-slider-pin-color: "var(--white-color)"
   paper-slider-pin-start-color: "var(--cyan-color)"
-  paper-slider-secondary-color: "var(--red-color)"
+  paper-slider-secondary-color: "var(--white-color)"
   paper-tab-ink: "var(--cyan-color)"
   primary-color: "var(--orange-color)"
-  primary-background-color: "var(--dark-purple-color)"
-  primary-text-color: "var(--red-color)"
-  rgb-accent-color: "var(--red-color)"
-  rgb-card-background-color: "var(--dark-purple-color)"
-  rgb-primary-background-color: "var(--dark-purple-color)"
-  rgb-primary-color: "var(--red-color)"
-  rgb-secondary-color: "var(--red-color)"
-  rgb-text-primary-background-color: "var(--dark-purple-color)"
+  primary-background-color: "var(--darker-blue-color)"
+  primary-text-color: "var(--white-color)"
+  rgb-accent-color: "var(--white-color)"
+  rgb-card-background-color: "var(--darker-blue-color)"
+  rgb-primary-background-color: "var(--darker-blue-color)"
+  rgb-primary-color: "var(--white-color)"
+  rgb-secondary-color: "var(--white-color)"
+  rgb-text-primary-background-color: "var(--darker-blue-color)"
   scrollbar-thumb-color: ""
-  secondary-background-color: "var(--dark-purple-color)"
+  secondary-background-color: "var(--darker-blue-color)"
   secondary-color: "var(--cyan-color)"
   secondary-text-color: "var(--cyan-color)"
   shadow-elevation-12dp_-_box-shadow: ""
@@ -528,16 +528,16 @@ cyberpunk-2077:
   shadow-elevation-8dp_-_box-shadow: ""
   shadow-none_-_box-shadow: ""
   shadow-transition_-_transition: ""
-  sidebar-background-color: "var(--dark-purple-color)"
-  sidebar-icon-color: "var(--red-color)"
-  sidebar-selected-background-color: "var(--dark-red)"
+  sidebar-background-color: "var(--darker-blue-color)"
+  sidebar-icon-color: "var(--white-color)"
+  sidebar-selected-background-color: "var(--dark-blue)"
   sidebar-selected-icon-color: "var(--cyan-color)"
   sidebar-selected-color: "var(--cyan-color)"
   sidebar-selected-text-color: "var(--cyan-color)"
-  sidebar-color: "var(--red-color)"
-  slider-color: "var(--red-color)"
-  slider-secondary-color: "var(--red-color)"
-  slider-track-color: "var(--dark-purple-color)"
+  sidebar-color: "var(--white-color)"
+  slider-color: "var(--white-color)"
+  slider-secondary-color: "var(--white-color)"
+  slider-track-color: "var(--darker-blue-color)"
   state-climate-auto-color: ""
   state-climate-cool-color: ""
   state-climate-dry-color: ""
@@ -547,10 +547,10 @@ cyberpunk-2077:
   state-climate-idle-color: ""
   state-climate-manual-color: ""
   state-climate-off-color: ""
-  state-color: "var(--red-color)"
+  state-color: "var(--white-color)"
   state-home-color: ""
   state-icon-active-color: ""
-  state-icon-color: "var(--red-color)"
+  state-icon-color: "var(--white-color)"
   state-icon-error-color: ""
   state-icon-unavailable-color: ""
   state-idle-color: ""
@@ -563,104 +563,107 @@ cyberpunk-2077:
   switch-checked-button-color: "var(--cyan-color)"
   switch-checked-color: "var(--cyan-color)"
   switch-checked-track-color: "var(--cyan-color)"
-  switch-unchecked-button-color: "var(--red-color)"
-  switch-unchecked-color: "var(--dark-purple-color)"
-  switch-unchecked-track-color: "var(--dark-purple-color)"
-  table-row-alternative-background-color: "var(--dark-purple-color)"
-  table-row-background-color: "var(--dark-purple-color)"
+  switch-unchecked-button-color: "var(--white-color)"
+  switch-unchecked-color: "var(--darker-blue-color)"
+  switch-unchecked-track-color: "var(--darker-blue-color)"
+  table-row-alternative-background-color: "var(--darker-blue-color)"
+  table-row-background-color: "var(--darker-blue-color)"
   text-accent-color: "var(--cyan-color)"
-  text-light-primary-background-color: "var(--dark-purple-color)"
-  text-primary-color: "var(--dark-purple-color)"
-  text-primary-background-color: "var(--dark-red-color)"
+  text-light-primary-background-color: "var(--darker-blue-color)"
+  text-primary-color: "var(--darker-blue-color)"
+  text-primary-background-color: "var(--dark-blue-color)"
   warning-color: ""
 
   # card-mod
-  card-mod-theme: cyberpunk-2077
+  card-mod-theme: Blue_Tech_Cyberpunk
 
   card-mod-root: |
     app-toolbar {
     }
 
   card-mod-card: |
-    ha-card {
-      border-radius: 1px;
-      clip-path: polygon(
-        0% 0%, 
-        40px 0%, 
-        45px 4px, 
-        100% 4px, 
-        100% calc(100% - 20px), 
-        calc(100% - 20px) 100%,
-        0% 100%
-      );
-    }
+  
+    # ha-card {
+    #   border-radius: 1px;
+    #   clip-path: polygon(
+    #     0% 0%, 
+    #     40px 0%, 
+    #     45px 4px, 
+    #     100% 4px, 
+    #     100% calc(100% - 20px), 
+    #     calc(100% - 20px) 100%,
+    #     0% 100%
+    #   );
+    # }
     
-    ha-card:before {
-      border-radius: 1px;
-      clip-path: polygon(
-        0% 0%, 
-        40px 0%, 
-        45px 4px, 
-        100% 4px, 
-        100% calc(100% - 23px), 
-        calc(100% - 23px) 100%,
-        0% 100%
-      );
-    }
+    # ha-card:before {
+    #   border-radius: 1px;
+    #   clip-path: polygon(
+    #     0% 0%, 
+    #     40px 0%, 
+    #     45px 4px, 
+    #     100% 4px, 
+    #     100% calc(100% - 23px), 
+    #     calc(100% - 23px) 100%,
+    #     0% 100%
+    #   );
+    # }
 
-    ha-card,
-    ha-card:before,
-    ha-card:after {
-      transition: all 100ms ease-out; 
-    }
+    # ha-card,
+    # ha-card:before,
+    # ha-card:after {
+    #   transition: all 100ms ease-out; 
+    # }
 
-    ha-card {
-      background-color: var(--red-color);
-    }
+    # ha-card {
+    #   background-color: var(--white-color);
+    # }
 
-    ha-card:hover {
-      clip-path: polygon(
-        0px 0px, 
-        100% 0px, 
-        100% calc(100% - 20px), 
-        calc(100% - 20px) 100%, 
-        0px 100%
-      );
-    }
+    # ha-card:hover {
+    #   clip-path: polygon(
+    #     0px 0px, 
+    #     100% 0px, 
+    #     100% calc(100% - 20px), 
+    #     calc(100% - 20px) 100%, 
+    #     0px 100%
+    #   );
+    # }
 
-    ha-card:hover,
-    ha-card:hover:after {
-      background-color: var(--cyan-color);
-    }
+    # ha-card:hover,
+    # ha-card:hover:after {
+    #   background-color: var(--cyan-color);
+    # }
 
-    ha-card > * {
-      z-index: 2;
-    }
+    # ha-card > * {
+    #   z-index: 1;
+    # }
 
-    ha-card:before {
-      background: var(--dark-red-color);
-      content: '';
-      display: block;
-      height: calc(100% - 3px);
-      left: 1px;
-      position: absolute;
-      top: 2px;
-      width: calc(100% - 2px);
-      z-index: -1;
-    }
+    # ha-card:before {
+    #   background: var(--dark-blue-color);
+    #   content: '';
+    #   display: block;
+    #   height: calc(100% - 3px);
+    #   left: 1px;
+    #   position: absolute;
+    #   top: 2px;
+    #   width: calc(100% - 2px);
+    #   z-index: -1;
+    # }
 
-    ha-card:after {
-      background: var(--red-color);
-      bottom: 0px;
-      clip-path: polygon(100% 0%, 100% 2px, 2px 100%, 0% 100%);
-      color: var(--red-color); 
-      content: '';
-      display: block;
-      height: 20px;
-      position: absolute;
-      right: 0px;
-      width: 20px;
-    }
+    # ha-card:after {
+    #   background: var(--white-color);
+    #   bottom: 0px;
+    #   clip-path: polygon(100% 0%, 100% 2px, 2px 100%, 0% 100%);
+    #   color: var(--white-color); 
+    #   content: '';
+    #   display: block;
+    #   height: 20px;
+    #   position: absolute;
+    #   right: 0px;
+    #   width: 20px;
+    # }
+
+
 
   card-mod-sidebar: |
     @-webkit-keyframes blink {
@@ -716,7 +719,7 @@ cyberpunk-2077:
     }
 
     paper-icon-item {
-      background-color: var(--red-color);
+      background-color: var(--dark-cyan-color);
       border-radius: 1px !important;
       clip-path: polygon(
         0px calc(100% - 7px),
@@ -732,7 +735,7 @@ cyberpunk-2077:
     }
 
     paper-icon-item:before {
-      background: var(--dark-red-color);
+      background: var(--dark-blue-color);
       clip-path: polygon(
         5px 0px,
         100% 0px, 
@@ -756,7 +759,7 @@ cyberpunk-2077:
     }
 
     paper-icon-item:after {
-      background-color: var(--red-color);
+      background-color: var(--white-color);
       content: '';
       display: block;
       height: 100%;
@@ -775,7 +778,7 @@ cyberpunk-2077:
     }
 
     paper-icon-item:hover:before {
-      background-color: var(--dark-red-color);
+      background-color: var(--dark-blue-color);
     }
 
     .iron-selected paper-icon-item:focus::before,
@@ -799,6 +802,6 @@ cyberpunk-2077:
     }
 
     div.tooltip {
-      color: var(--dark-purple-color);
+      color: var(--darker-blue-color);
       background-color: var(--cyan-color);
     }
