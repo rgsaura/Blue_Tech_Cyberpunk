@@ -1,7 +1,11 @@
 # Cyberpunk 2077 Home Assistant Theme
+> Forked Cyberpunk 2077 Theme by @flejz >> Blue_Tech_Cyberpunk by @rgsaura
 
-[![Build Status](https://github.com/flejz/hass-cyberpunk-2077-theme/workflows/.github/workflows/workflow.yml/badge.svg)](https://github.com/flejz/hass-cyberpunk-2077-theme/actions)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+![Screenshot 2024-04-24 at 12 29 48](https://github.com/rgsaura/Blue_Tech_Cyberpunk/assets/16281075/4068cf93-4572-4794-8281-d4506556e463)
+![Captura 2024-04-24 a las 12 30 08](https://github.com/rgsaura/Blue_Tech_Cyberpunk/assets/16281075/a875873b-66c6-4bd9-adeb-b10c51ec2ece)
+
+
+---
 
 > The Cyberpunk 2077 Theme by @flejz
 
