@@ -1,4 +1,4 @@
-# Cyberpunk 2077 Home Assistant Theme
+# Blue_Tech_Cyberpunk Home Assistant Theme
 > Forked Cyberpunk 2077 Theme by @flejz >> Blue_Tech_Cyberpunk by @rgsaura
 
 ![Screenshot 2024-04-24 at 12 29 48](https://github.com/rgsaura/Blue_Tech_Cyberpunk/assets/16281075/4068cf93-4572-4794-8281-d4506556e463)
